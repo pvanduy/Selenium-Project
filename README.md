@@ -6,7 +6,7 @@ This guide provides a step-by-step process for setting up Selenium with Java usi
 
 Before starting, ensure you have the following installed:
 
-- **To install automation:** Run 2 files Auto_install_Java.bat and Auto_install_Maven.bat run as *administrator*
+- **To install automation:** Run 2 files `Auto_install_Java.bat` and `Auto_install_Maven.bat` run as *`administrator`*
 
 
 - **Java Development Kit (JDK):** [Download JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
